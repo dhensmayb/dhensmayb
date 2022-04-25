@@ -1,6 +1,6 @@
 - Hi 👋, I'm Dhensell May Boquiren
 
-- A passionate IT Student from Philippines
+- 📚 A passionate IT Student from Philippines
 
 - 🌱 I’m currently learning **Javascript.**
 
